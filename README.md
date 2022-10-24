@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Jombi-KR
-- 👀 My main language is Java
-- 🌱 I’m currently learning Python
-- 💞️ I’m making my Minecraft Modded Client, Catware.
+- 👋 Hi, I’m @J0mbi
+- 👀 My main language is Java, Kotlin
+- 🌱 I’m currently learning Python, NodeJS
+- 💞️ I’m not doing anything ;)
 - 📫 Mail me if you have question at jombi@duck.com
-
-ILY<3
