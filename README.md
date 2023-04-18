@@ -5,6 +5,6 @@
 - 📫 Mail me if you have question at jombi@duck.com, jombi@dgsw.hs.kr
 
 <p align=left><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0mbi&amp;theme=radical"
-        alt="Top Languages">
+        alt="Top Languages" height="190px">
         <img src="https://github-readme-stats.vercel.app/api?username=J0mbi&amp;show_icons=true&amp;theme=radical"
-        alt="Stats"></p>
+        alt="Stats" height="190px"></p>
