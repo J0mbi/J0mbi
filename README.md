@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @J0mbi
 - 👀 My main language is Java, Kotlin
-- 🌱 I’m currently learning Go, Rust
+- 🌱 I’m currently learning SpringBoot
 - 💞️ DGSW 8th
-- 📫 Mail me if you have question at jombi@duck.com
+- 📫 Mail me if you have question at jombi@duck.com, jombi@dgsw.hs.kr
 
 <p align=left><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0mbi&amp;theme=radical"
         alt="Top Languages">
