@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @J0mbi
-- 👀 My main language is Kotlin
-- 🌱 I’m currently learning SpringBoot
-- 💞️ DGSW 8th
-- 📫 Mail me if you have question at jombi@duck.com
+- kotlin fanboy (da best language im sure)
+- DGSW 8th ☠️
+- Backend Developer
+- weirdo
+- enjoying rhythm games
 
 <p align=left><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jombidev&amp;theme=radical"
         alt="Top Languages" height="210px">
