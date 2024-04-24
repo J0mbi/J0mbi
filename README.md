@@ -1,7 +1,6 @@
 - kotlin fanboy (da best language im sure)
 - DGSW 8th ☠️
 - Backend Developer
-- weirdo
 - enjoying rhythm games
 
 <p align=left><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jombidev&amp;theme=radical"
