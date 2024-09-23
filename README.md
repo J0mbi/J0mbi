@@ -7,4 +7,4 @@
         alt="Top Languages" height="210px">
         <img src="https://github-readme-stats.vercel.app/api?username=jombidev&amp;show_icons=true&amp;theme=radical"
         alt="Stats" height="210px"></p>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d7baae8b-c0d3-497d-9baa-f6d8b2265087/230e5067-317c-4a9b-8cdd-ee6762797cb1.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d7baae8b-c0d3-497d-9baa-f6d8b2265087/0c593e01-1331-4488-86d4-7f7ff24731d4.png" /></a>
