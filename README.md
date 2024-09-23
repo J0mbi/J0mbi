@@ -7,3 +7,4 @@
         alt="Top Languages" height="210px">
         <img src="https://github-readme-stats.vercel.app/api?username=jombidev&amp;show_icons=true&amp;theme=radical"
         alt="Stats" height="210px"></p>
+<figure><embed src="https://wakatime.com/share/@d7baae8b-c0d3-497d-9baa-f6d8b2265087/c8c7483c-0dfe-48ea-8dba-afb6d8acc86f.svg"></embed></figure>
